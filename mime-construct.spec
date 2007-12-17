@@ -8,7 +8,6 @@ URL:		http://search.cpan.org/~rosch/mime-construct/
 Source0:	http://search.cpan.org/CPAN/authors/id/R/RO/ROSCH/%{name}-%{version}.tar.bz2
 BuildRequires:	perl-devel
 BuildArch:	noarch
-BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 mime-construct constructs and (by default) mails MIME messages. It
