@@ -4,7 +4,7 @@ Version:	1.9
 Release:	6
 License:	GPL or Artistic
 Group:		Development/Perl
-URL:		http://search.cpan.org/~rosch/mime-construct/
+URL:		https://search.cpan.org/~rosch/mime-construct/
 Source0:	http://search.cpan.org/CPAN/authors/id/R/RO/ROSCH/%{name}-%{version}.tar.bz2
 BuildRequires:	perl-devel
 BuildArch:	noarch
