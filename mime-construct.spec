@@ -1,7 +1,7 @@
 Summary:	Construct and optionally mail MIME messages
 Name:		mime-construct
-Version:	1.9
-Release:	6
+Version:	1.11
+Release:	1
 License:	GPL or Artistic
 Group:		Development/Perl
 URL:		https://search.cpan.org/~rosch/mime-construct/
